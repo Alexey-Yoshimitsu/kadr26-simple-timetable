@@ -107,10 +107,10 @@
 //  new CacheFirst()
 //);
 // Change this to your repository name
-var GHPATH = '/mgkeit-simple-timetable';
+var GHPATH = '/kadr26-simple-timetable';
  
 // Choose a different app prefix name
-var APP_PREFIX = 'mgkeit_';
+var APP_PREFIX = 'simpletimetable_';
  
 // The version of the cache. Every time you change any of the files
 // you need to change this version (version_01, version_02…). 
